@@ -4,4 +4,4 @@
 - 非结构化数据分析
 - 数据建模
 
-<font color="#9a07de"><b>持续记录学习jupyter笔记 ~ ~</font>
+<font color="#9a07de"><b>持续记录jupyter学习笔记 ~ ~</font>
