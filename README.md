@@ -1,6 +1,6 @@
 # DataAnalysis
 - Python语法
-- 结构化数据分析 + Excel 
+- 结构化数据分析
 - 非结构化数据分析
 - 数据建模
 
