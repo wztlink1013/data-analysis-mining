@@ -1,0 +1,28 @@
+文件夹 PATH 列表
+卷序列号为 0C5B-C21A
+C:.
+├─.idea
+│  └─inspectionProfiles
+├─fujian1
+├─fujian2
+│  ├─data_2017
+│  ├─data_2018
+│  ├─data_2019
+│  └─data_2020
+├─fujian3
+├─output_figures
+├─output_problem_1
+└─output_problem_2
+
+程序运行环境：
+	操作系统：Windows10
+	python版本：python3.7.6
+	程序依赖包：Numpy1.18.1、Pandas1.0.1、matplotlib3.1.3
+	编译器：PyCharm 2020.1.3
+
+程序功能
+	程序1：main_fengxian.py
+	功能：求解问题一和问题二的2017~2020每年各企业信贷风险值以及总信贷风险值
+	程序2：main_K-means_fengxian_ABCD.py
+	功能：①K-means聚类算法聚类求解问题一、问题二、问题三的信贷风险值中心值并做出图像
+	          ②拟合第一问的年利率和评级ABCD方程并作出图像
