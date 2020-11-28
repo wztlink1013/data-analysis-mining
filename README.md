@@ -9,6 +9,5 @@
 - 国赛建模+美赛建模code（暂未上传完全版本…）
 
 ### about
-**也可以查看我个人博客相关数据分析文章** 
-
-[https://www.wztlink1013.com/blog/categories/DataAnalysis/](https://www.wztlink1013.com/blog/categories/DataAnalysis/)
+- 也可以查看我个人博客相关数据分析文章
+- [https://www.wztlink1013.com/blog/categories/DataAnalysis/](https://www.wztlink1013.com/blog/categories/DataAnalysis/)
